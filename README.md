@@ -12,7 +12,7 @@ Mobile App feita em Flutter
 Flutter Chalange layout, practice with Images and Fonts.
 
 
-<img mg width="300" src="assets/MyFlowers.png" alt="page-home">
+<img mg width="300" src="assets/myflowers.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
